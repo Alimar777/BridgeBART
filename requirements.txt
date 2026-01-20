@@ -1,0 +1,20 @@
+av==13.1.0
+datasets==3.5.0
+matplotlib==3.9.2
+nltk==3.9.1
+numpy==2.2.5
+openai==1.72.0
+opencv-python==4.11.0.86
+pandas==2.2.3
+pillow==11.1.0
+python-dotenv==1.1.0
+pytorchvideo==0.1.5
+requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.15.2
+sentence-transformers==4.0.2
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+transformers==4.51.1
+# Optional: needed only for the downloader in metrics.py
+# yt-dlp==<set_version>

@@ -1,0 +1,16 @@
+prev_caption,curr_caption,human_transition,input_text,generated_transition
+a man in a black shirt,the cast of the vampires in a scene from the movie,,"Caption 1: a man in a black shirt
+Caption 2: the cast of the vampires in a scene from the movie
+What's the transition?",The scene cuts to a movie.
+the cast of the vampires in a scene from the movie,a man in a suit and tie is standing in front of a crowd,,"Caption 1: the cast of the vampires in a scene from the movie
+Caption 2: a man in a suit and tie is standing in front of a crowd
+What's the transition?",A man in a suit and tie appears in front of the crowd.
+a man in a suit and tie is standing in front of a crowd,a man in a black coat,,"Caption 1: a man in a suit and tie is standing in front of a crowd
+Caption 2: a man in a black coat
+What's the transition?",He is wearing a black coat.
+a man in a black jacket,a man in a suit talking to a woman,,"Caption 1: a man in a black jacket
+Caption 2: a man in a suit talking to a woman
+What's the transition?",He is talking to a woman.
+a man in a suit talking to a woman,a man holding a cell,,"Caption 1: a man in a suit talking to a woman
+Caption 2: a man holding a cell
+What's the transition?",The man is holding a cell phone

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+
+# Environments and secrets
+.env
+.venv/
+venv/
+env/
+hf_access_token.txt
+
+# Local models and training outputs
+Models/
+logs/
+
+# Large datasets/derived artifacts
+Benchmark Videos/*
+!Benchmark Videos/
+!Benchmark Videos/03.mp4
+
+# IDE/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
